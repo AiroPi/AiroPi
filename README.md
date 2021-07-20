@@ -39,6 +39,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#77](https://github.com/discord-bugcenter/HelpCenter/pull/77) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
+2. 💪 Opened PR [#77](https://github.com/discord-bugcenter/HelpCenter/pull/77) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
+3. 🎉 Merged PR [#76](https://github.com/discord-bugcenter/HelpCenter/pull/76) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
+4. 💪 Opened PR [#76](https://github.com/discord-bugcenter/HelpCenter/pull/76) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
+5. 🎉 Merged PR [#73](https://github.com/discord-bugcenter/HelpCenter/pull/73) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
 <!--END_SECTION:activity-->
 
 </details>
