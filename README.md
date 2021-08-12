@@ -39,11 +39,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#79](https://github.com/discord-bugcenter/HelpCenter/pull/79) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
-2. 🎉 Merged PR [#78](https://github.com/discord-bugcenter/HelpCenter/pull/78) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
-3. 💪 Opened PR [#78](https://github.com/discord-bugcenter/HelpCenter/pull/78) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
-4. ❗️ Opened issue [#7284](https://github.com/Rapptz/discord.py/issues/7284) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-5. 🗣 Commented on [#7261](https://github.com/Rapptz/discord.py/issues/7261) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+1. 🎉 Merged PR [#79](https://github.com/discord-bugcenter/HelpCenter/pull/79) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
+2. 💪 Opened PR [#79](https://github.com/discord-bugcenter/HelpCenter/pull/79) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
+3. 🎉 Merged PR [#78](https://github.com/discord-bugcenter/HelpCenter/pull/78) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
+4. 💪 Opened PR [#78](https://github.com/discord-bugcenter/HelpCenter/pull/78) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
+5. ❗️ Opened issue [#7284](https://github.com/Rapptz/discord.py/issues/7284) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
 <!--END_SECTION:activity-->
 
 </details>
