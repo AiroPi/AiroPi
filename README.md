@@ -39,11 +39,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/discord-bugcenter/BotCenter/pull/13) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
-2. 🎉 Merged PR [#8](https://github.com/discord-bugcenter/BotCenter/pull/8) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
-3. 🎉 Merged PR [#1](https://github.com/discord-bugcenter/BotCenter/pull/1) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
-4. ❗️ Opened issue [#3842](https://github.com/discord/discord-api-docs/issues/3842) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-5. 🎉 Merged PR [#80](https://github.com/discord-bugcenter/HelpCenter/pull/80) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
+1. 🎉 Merged PR [#16](https://github.com/discord-bugcenter/BotCenter/pull/16) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
+2. 💪 Opened PR [#16](https://github.com/discord-bugcenter/BotCenter/pull/16) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
+3. 🎉 Merged PR [#13](https://github.com/discord-bugcenter/BotCenter/pull/13) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
+4. 🎉 Merged PR [#8](https://github.com/discord-bugcenter/BotCenter/pull/8) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
+5. 🎉 Merged PR [#1](https://github.com/discord-bugcenter/BotCenter/pull/1) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
 <!--END_SECTION:activity-->
 
 </details>
