@@ -39,11 +39,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/discord-bugcenter/BotCenter/pull/11) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
-2. 🎉 Merged PR [#15](https://github.com/discord-bugcenter/BotCenter/pull/15) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
-3. 🎉 Merged PR [#16](https://github.com/discord-bugcenter/BotCenter/pull/16) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
-4. 💪 Opened PR [#16](https://github.com/discord-bugcenter/BotCenter/pull/16) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
-5. 🎉 Merged PR [#13](https://github.com/discord-bugcenter/BotCenter/pull/13) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
+1. ❗️ Opened issue [#1926](https://github.com/microsoft/pylance-release/issues/1926) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+2. 🎉 Merged PR [#11](https://github.com/discord-bugcenter/BotCenter/pull/11) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
+3. 🎉 Merged PR [#15](https://github.com/discord-bugcenter/BotCenter/pull/15) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
+4. 🎉 Merged PR [#16](https://github.com/discord-bugcenter/BotCenter/pull/16) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
+5. 💪 Opened PR [#16](https://github.com/discord-bugcenter/BotCenter/pull/16) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
 <!--END_SECTION:activity-->
 
 </details>
