@@ -39,11 +39,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#81](https://github.com/discord-bugcenter/HelpCenter/pull/81) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
-2. 🗣 Commented on [#85](https://github.com/discord-bugcenter/HelpCenter/issues/85) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
-3. 💪 Opened PR [#3](https://github.com/PetitPotiron/python-convertio/pull/3) in [PetitPotiron/python-convertio](https://github.com/PetitPotiron/python-convertio)
-4. ❗️ Opened issue [#1926](https://github.com/microsoft/pylance-release/issues/1926) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-5. 🎉 Merged PR [#11](https://github.com/discord-bugcenter/BotCenter/pull/11) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
+1. 🎉 Merged PR [#85](https://github.com/discord-bugcenter/HelpCenter/pull/85) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
+2. 🎉 Merged PR [#81](https://github.com/discord-bugcenter/HelpCenter/pull/81) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
+3. 🗣 Commented on [#85](https://github.com/discord-bugcenter/HelpCenter/issues/85) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
+4. 💪 Opened PR [#3](https://github.com/PetitPotiron/python-convertio/pull/3) in [PetitPotiron/python-convertio](https://github.com/PetitPotiron/python-convertio)
+5. ❗️ Opened issue [#1926](https://github.com/microsoft/pylance-release/issues/1926) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
 <!--END_SECTION:activity-->
 
 </details>
