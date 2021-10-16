@@ -39,11 +39,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#85](https://github.com/discord-bugcenter/HelpCenter/pull/85) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
-2. 🎉 Merged PR [#81](https://github.com/discord-bugcenter/HelpCenter/pull/81) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
-3. 🗣 Commented on [#85](https://github.com/discord-bugcenter/HelpCenter/issues/85) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
-4. 💪 Opened PR [#3](https://github.com/PetitPotiron/python-convertio/pull/3) in [PetitPotiron/python-convertio](https://github.com/PetitPotiron/python-convertio)
-5. ❗️ Opened issue [#1926](https://github.com/microsoft/pylance-release/issues/1926) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+1. 🗣 Commented on [#2](https://github.com/AiroPi/numworks-modules/issues/2) in [AiroPi/numworks-modules](https://github.com/AiroPi/numworks-modules)
+2. ❗️ Opened issue [#1950](https://github.com/microsoft/pylance-release/issues/1950) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+3. 🎉 Merged PR [#85](https://github.com/discord-bugcenter/HelpCenter/pull/85) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
+4. 🎉 Merged PR [#81](https://github.com/discord-bugcenter/HelpCenter/pull/81) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
+5. 🗣 Commented on [#85](https://github.com/discord-bugcenter/HelpCenter/issues/85) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
 <!--END_SECTION:activity-->
 
 </details>
