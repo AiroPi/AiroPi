@@ -39,11 +39,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1950](https://github.com/microsoft/pylance-release/issues/1950) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-2. 🗣 Commented on [#1950](https://github.com/microsoft/pylance-release/issues/1950) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-3. 🗣 Commented on [#2](https://github.com/AiroPi/numworks-modules/issues/2) in [AiroPi/numworks-modules](https://github.com/AiroPi/numworks-modules)
-4. ❗️ Opened issue [#1950](https://github.com/microsoft/pylance-release/issues/1950) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-5. 🎉 Merged PR [#85](https://github.com/discord-bugcenter/HelpCenter/pull/85) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
+1. 💪 Opened PR [#17](https://github.com/discord-bugcenter/BotCenter/pull/17) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
+2. ❗️ Closed issue [#1950](https://github.com/microsoft/pylance-release/issues/1950) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+3. 🗣 Commented on [#1950](https://github.com/microsoft/pylance-release/issues/1950) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+4. 🗣 Commented on [#2](https://github.com/AiroPi/numworks-modules/issues/2) in [AiroPi/numworks-modules](https://github.com/AiroPi/numworks-modules)
+5. ❗️ Opened issue [#1950](https://github.com/microsoft/pylance-release/issues/1950) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
 <!--END_SECTION:activity-->
 
 </details>
