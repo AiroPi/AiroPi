@@ -39,11 +39,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/discord-bugcenter/BotCenter/pull/18) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
-2. 💪 Opened PR [#17](https://github.com/discord-bugcenter/BotCenter/pull/17) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
-3. ❗️ Closed issue [#1950](https://github.com/microsoft/pylance-release/issues/1950) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-4. 🗣 Commented on [#1950](https://github.com/microsoft/pylance-release/issues/1950) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-5. 🗣 Commented on [#2](https://github.com/AiroPi/numworks-modules/issues/2) in [AiroPi/numworks-modules](https://github.com/AiroPi/numworks-modules)
+1. 🎉 Merged PR [#18](https://github.com/discord-bugcenter/BotCenter/pull/18) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
+2. 🎉 Merged PR [#17](https://github.com/discord-bugcenter/BotCenter/pull/17) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
+3. 💪 Opened PR [#18](https://github.com/discord-bugcenter/BotCenter/pull/18) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
+4. 💪 Opened PR [#17](https://github.com/discord-bugcenter/BotCenter/pull/17) in [discord-bugcenter/BotCenter](https://github.com/discord-bugcenter/BotCenter)
+5. ❗️ Closed issue [#1950](https://github.com/microsoft/pylance-release/issues/1950) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
 <!--END_SECTION:activity-->
 
 </details>
