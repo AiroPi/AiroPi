@@ -39,11 +39,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#92](https://github.com/discord-bugcenter/HelpCenter/pull/92) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
-2. 🎉 Merged PR [#91](https://github.com/discord-bugcenter/HelpCenter/pull/91) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
-3. 🎉 Merged PR [#86](https://github.com/discord-bugcenter/HelpCenter/pull/86) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
-4. 🎉 Merged PR [#87](https://github.com/discord-bugcenter/HelpCenter/pull/87) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
-5. ❗️ Closed issue [#84](https://github.com/discord-bugcenter/HelpCenter/issues/84) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
+1. ❗️ Closed issue [#93](https://github.com/discord-bugcenter/HelpCenter/issues/93) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
+2. 🎉 Merged PR [#94](https://github.com/discord-bugcenter/HelpCenter/pull/94) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
+3. 🎉 Merged PR [#92](https://github.com/discord-bugcenter/HelpCenter/pull/92) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
+4. 🎉 Merged PR [#91](https://github.com/discord-bugcenter/HelpCenter/pull/91) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
+5. 🎉 Merged PR [#86](https://github.com/discord-bugcenter/HelpCenter/pull/86) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
 <!--END_SECTION:activity-->
 
 </details>
