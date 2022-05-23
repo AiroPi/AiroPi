@@ -1,10 +1,18 @@
 ### Hi there, I'm Pierre - aka Airo.Pi 👋
 
-[1️⃣](https://readme-profile.mybot-discord.com/play?column=0) [2️⃣](https://readme-profile.mybot-discord.com/play?column=1) [3️⃣](https://readme-profile.mybot-discord.com/play?column=2) [4️⃣](https://readme-profile.mybot-discord.com/play?column=3) [5️⃣](https://readme-profile.mybot-discord.com/play?column=4) [6️⃣](https://readme-profile.mybot-discord.com/play?column=5) [7️⃣](https://readme-profile.mybot-discord.com/play?column=6)
+&nbsp;[1️⃣](https://readme-profile.mybot-discord.com/play?column=0)&nbsp;&nbsp;
+[2️⃣](https://readme-profile.mybot-discord.com/play?column=1)&nbsp;&nbsp;
+[3️⃣](https://readme-profile.mybot-discord.com/play?column=2)&nbsp;&nbsp;
+[4️⃣](https://readme-profile.mybot-discord.com/play?column=3)&nbsp;&nbsp;
+[5️⃣](https://readme-profile.mybot-discord.com/play?column=4)&nbsp;&nbsp;
+[6️⃣](https://readme-profile.mybot-discord.com/play?column=5)&nbsp;&nbsp;
+[7️⃣](https://readme-profile.mybot-discord.com/play?column=6)
 
-<img src="https://readme-profile.mybot-discord.com/image" width="180"/> 
+<img src="https://readme-profile.mybot-discord.com/image" width="245"/> 
 
-[🔄](https://readme-profile.mybot-discord.com/reset)
+Restart : [🔄](https://readme-profile.mybot-discord.com/reset)
+
+---
 
 ### Languages and Tools:
 
