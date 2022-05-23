@@ -1,24 +1,10 @@
 ### Hi there, I'm Pierre - aka Airo.Pi 👋
 
-## I'm a Teenager, High school student, Developer, and Scuba diver!!
-- 🔭 I’m currently working on MyBot, a discord bot
-- 🌱 I’m currently learning Docker
-- 🤔 I’m looking for help with Docker
-- 💬 Ask me about Python
-- 📫 How to reach me: on Discord (Pıεяяε#9999)
+[1️⃣](https://readme-profile.mybot-discord.com/play?column=0) [2️⃣](https://readme-profile.mybot-discord.com/play?column=1) [3️⃣](https://readme-profile.mybot-discord.com/play?column=2) [4️⃣](https://readme-profile.mybot-discord.com/play?column=3) [5️⃣](https://readme-profile.mybot-discord.com/play?column=4) [6️⃣](https://readme-profile.mybot-discord.com/play?column=5) [7️⃣](https://readme-profile.mybot-discord.com/play?column=6)
 
-### Spotify Playing 🎧
+<img src="https://readme-profile.mybot-discord.com/image" width="180"/> 
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/of8b7usowwi165h5njs7mzieq)
-
-<!-- ### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-
+[🔄](https://readme-profile.mybot-discord.com/reset)
 
 ### Languages and Tools:
 
@@ -36,36 +22,6 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#93](https://github.com/discord-bugcenter/HelpCenter/issues/93) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
-2. 🎉 Merged PR [#94](https://github.com/discord-bugcenter/HelpCenter/pull/94) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
-3. 🎉 Merged PR [#92](https://github.com/discord-bugcenter/HelpCenter/pull/92) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
-4. 🎉 Merged PR [#91](https://github.com/discord-bugcenter/HelpCenter/pull/91) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
-5. 🎉 Merged PR [#86](https://github.com/discord-bugcenter/HelpCenter/pull/86) in [discord-bugcenter/HelpCenter](https://github.com/discord-bugcenter/HelpCenter)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="AiroPi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AiroPi">
-
 </details>
-
-
-<!--
-**AiroPi/AiroPi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
