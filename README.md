@@ -8,9 +8,10 @@
 [6️⃣](https://readme-profile.mybot-discord.com/play?column=5)&nbsp;&nbsp;&nbsp;
 [7️⃣](https://readme-profile.mybot-discord.com/play?column=6)
 
-<img src="https://readme-profile.mybot-discord.com/image" width="245"/> 
+<img src="https://readme-profile.mybot-discord.com/image" width="242"/> 
 
 Restart : [🔄](https://readme-profile.mybot-discord.com/reset)
+If the game is not over, you will need to wait 5 minutes after the last play to restart.
 
 ---
 
