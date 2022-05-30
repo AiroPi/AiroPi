@@ -10,7 +10,7 @@
 
 <img src="https://readme-profile.mybot-discord.com/image" width="240"/> 
 
-Restart : [🔄](https://readme-profile.mybot-discord.com/reset)
+Restart : [🔄](https://readme-profile.mybot-discord.com/reset)  
 If the game is not over, you will need to wait 5 minutes after the last play to restart.
 
 ---
