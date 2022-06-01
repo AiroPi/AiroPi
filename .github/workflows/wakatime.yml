@@ -3,7 +3,7 @@ name: Work Stats Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: 0 0,12 * * *
+    - cron: 0 0 * * *
 
 jobs:
   update-readme:
@@ -12,4 +12,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{secrets.WAKATIME_API_KEY}}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          BLOCKS: ▁▂▃▄▅▆▇█
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_TOTAL: true
