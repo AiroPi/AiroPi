@@ -63,9 +63,14 @@ If the game is not over, you will need to wait 5 minutes after the last play to 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AiroPi&theme=onedark&show_icons=true&locale=en&layout=compact&hide=tcl"/>
 </p>
 
-![Snake animation](https://github.com/AiroPi/AiroPi/blob/output/github-contribution-grid-snake.svg)
-
 ---
+
+### • My activity
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+---
+
+![Snake animation](https://github.com/AiroPi/AiroPi/blob/output/github-contribution-grid-snake.svg)
+
