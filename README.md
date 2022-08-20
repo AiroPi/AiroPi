@@ -70,14 +70,14 @@ If the game is not over, you will need to wait 5 minutes after the last play to 
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 31 hrs 28 mins
+Total Time: 27 hrs 41 mins
 
-Python            29 hrs 21 mins  ███████████████████▄▁▁▁▁▁   77.78 %
-Bash              2 hrs 11 mins   █▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   05.81 %
-YAML              1 hr 20 mins    ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.56 %
-Gettext Catalog   1 hr 19 mins    ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.53 %
-JSON              1 hr 18 mins    ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.44 %
-C                 45 mins         ▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.02 %
+Python            22 hrs 59 mins  ███████████████████▁▁▁▁▁▁   76.26 %
+Bash              1 hr 52 mins    █▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.21 %
+Gettext Catalog   1 hr 19 mins    █▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.42 %
+JSON              1 hr 17 mins    █▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.31 %
+C                 1 hr 10 mins    █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.91 %
+TOML              24 mins         ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.36 %
 ```
 
 <!--END_SECTION:waka-->
