@@ -70,12 +70,13 @@ If the game is not over, you will need to wait 5 minutes after the last play to 
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 8 hrs 9 mins
+Total Time: 6 hrs 48 mins
 
-OCaml      4 hrs 23 mins   █████████████▃▁▁▁▁▁▁▁▁▁▁▁   53.00 %
-Python     3 hrs 37 mins   ██████████▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁   43.66 %
-Markdown   7 mins          ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.60 %
-Other      7 mins          ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.52 %
+Python     3 hrs 36 mins   █████████████▃▁▁▁▁▁▁▁▁▁▁▁   53.08 %
+OCaml      3 hrs 2 mins    ███████████▂▁▁▁▁▁▁▁▁▁▁▁▁▁   44.61 %
+Markdown   7 mins          ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.94 %
+JSON       0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.21 %
+Other      0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.11 %
 ```
 
 <!--END_SECTION:waka-->
