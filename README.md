@@ -72,7 +72,7 @@ If the game is not over, you will need to wait 5 minutes after the last play to 
 ```text
 Total Time: 9 hrs 30 mins
 
-TypeScript        6 hrs 41 mins   █████████████████▅▁▁▁▁▁▁▁   70.35 %
+TypeScript        6 hrs 42 mins   █████████████████▅▁▁▁▁▁▁▁   70.35 %
 Python            1 hr 7 mins     ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   11.75 %
 Markdown          38 mins         █▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.66 %
 C                 37 mins         █▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.61 %
