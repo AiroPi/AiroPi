@@ -73,9 +73,9 @@ If the game is not over, you will need to wait 5 minutes after the last play to 
 Total Time: 7 hrs 35 mins
 
 Python      3 hrs 59 mins   █████████████▂▁▁▁▁▁▁▁▁▁▁▁   52.58 %
-OCaml       1 hr 42 mins    █████▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   22.57 %
+OCaml       1 hr 42 mins    █████▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   22.56 %
 GDScript3   54 mins         ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   11.98 %
-Prolog      48 mins         ██▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   10.75 %
+Prolog      48 mins         ██▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   10.74 %
 Ezhil       2 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.50 %
 ```
 
