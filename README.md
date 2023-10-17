@@ -72,7 +72,7 @@ If the game is not over, you will need to wait 5 minutes after the last play to 
 ```txt
 Total Time: 5 hrs 2 mins
 
-Python     3 hrs 40 mins   ██████████████████▃▁▁▁▁▁▁   72.93 %
+Python     3 hrs 40 mins   ██████████████████▃▁▁▁▁▁▁   72.94 %
 OCaml      51 mins         ████▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   17.02 %
 YAML       18 mins         █▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.19 %
 Ezhil      8 mins          ▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.83 %
