@@ -72,10 +72,11 @@ If the game is not over, you will need to wait 5 minutes after the last play to 
 ```txt
 Total Time: 2 hrs 28 mins
 
-Python     1 hr 21 mins    █████████████▆▁▁▁▁▁▁▁▁▁▁▁   54.97 %
-OCaml      51 mins         ████████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   34.66 %
-YAML       12 mins         ██▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.49 %
-Makefile   2 mins          ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.88 %
+Python     1 hr 32 mins    ███████████████▅▁▁▁▁▁▁▁▁▁   62.16 %
+C          21 mins         ███▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   14.76 %
+Prolog     13 mins         ██▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   09.31 %
+OCaml      7 mins          █▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   05.33 %
+Makefile   5 mins          █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.74 %
 ```
 
 <!--END_SECTION:waka-->
