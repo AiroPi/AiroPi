@@ -1,17 +1,17 @@
 ## Hi there, I'm Pierre - aka Airo.Pi 👋
 ### • Wanna play ?
 
-&nbsp;[1️⃣](https://readme-profile.mybot-discord.com/play?column=0)&nbsp;&nbsp;&nbsp;
-[2️⃣](https://readme-profile.mybot-discord.com/play?column=1)&nbsp;&nbsp;&nbsp;
-[3️⃣](https://readme-profile.mybot-discord.com/play?column=2)&nbsp;&nbsp;&nbsp;
-[4️⃣](https://readme-profile.mybot-discord.com/play?column=3)&nbsp;&nbsp;&nbsp;
-[5️⃣](https://readme-profile.mybot-discord.com/play?column=4)&nbsp;&nbsp;&nbsp;
-[6️⃣](https://readme-profile.mybot-discord.com/play?column=5)&nbsp;&nbsp;&nbsp;
-[7️⃣](https://readme-profile.mybot-discord.com/play?column=6)
+&nbsp;[1️⃣](https://readme-power4.airopi.dev/play?column=0)&nbsp;&nbsp;&nbsp;
+[2️⃣](https://readme-power4.airopi.dev/play?column=1)&nbsp;&nbsp;&nbsp;
+[3️⃣](https://readme-power4.airopi.dev/play?column=2)&nbsp;&nbsp;&nbsp;
+[4️⃣](https://readme-power4.airopi.dev/play?column=3)&nbsp;&nbsp;&nbsp;
+[5️⃣](https://readme-power4.airopi.dev/play?column=4)&nbsp;&nbsp;&nbsp;
+[6️⃣](https://readme-power4.airopi.dev/play?column=5)&nbsp;&nbsp;&nbsp;
+[7️⃣](https://readme-power4.airopi.dev/play?column=6)
 
-<img src="https://readme-profile.mybot-discord.com/image" width="240"/> 
+<img src="https://readme-power4.airopi.dev/image" width="240"/> 
 
-Restart : [🔄](https://readme-profile.mybot-discord.com/reset)  
+Restart : [🔄](https://readme-power4.airopi.dev/reset)  
 If the game is not over, you will need to wait 5 minutes after the last play to restart.
 
 ---
