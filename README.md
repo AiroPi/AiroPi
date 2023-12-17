@@ -70,13 +70,13 @@ If the game is not over, you will need to wait 5 minutes after the last play to 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 4 mins
+Total Time: 7 hrs 33 mins
 
-Markdown     1 hr 57 mins    █████████▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   38.54 %
-Go           1 hr 44 mins    ████████▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   34.19 %
-Python       29 mins         ██▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   09.65 %
-Docker       27 mins         ██▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.95 %
-OCaml        14 mins         █▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.60 %
+Python       1 hr 58 mins    ██████▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   26.03 %
+Markdown     1 hr 57 mins    ██████▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   25.90 %
+Go           1 hr 44 mins    █████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   22.98 %
+Docker       52 mins         ██▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   11.51 %
+YAML         21 mins         █▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.73 %
 ```
 
 <!--END_SECTION:waka-->
