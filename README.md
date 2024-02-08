@@ -72,9 +72,9 @@ If the game is not over, you will need to wait 5 minutes after the last play to 
 ```txt
 Total Time: 4 hrs 13 mins
 
-Python   1 hr 42 mins    ██████████▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁   40.41 %
-OCaml    1 hr 41 mins    ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   39.85 %
-C        48 mins         ████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   19.02 %
+Python   1 hr 43 mins    ██████████▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁   40.56 %
+OCaml    1 hr 41 mins    ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   39.75 %
+C        48 mins         ████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   18.97 %
 Other    1 min           ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.61 %
 JSON     0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.11 %
 ```
