@@ -29,6 +29,7 @@
 Restart : [🔄](https://readme-power4.airopi.dev/connect4/reset)  
 If the game is not over, you will need to wait 5 minutes after the last play to restart.
 
+<!---
 #### Connect4^2!
 
 
@@ -44,6 +45,7 @@ If the game is not over, you will need to wait 5 minutes after the last play to 
 
 Restart : [🔄](https://readme-power4.airopi.dev/connect4/reset)  
 If the game is not over, you will need to wait 5 minutes after the last play to restart.
+--->
 
 ---
 
