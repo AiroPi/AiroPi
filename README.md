@@ -24,7 +24,7 @@
 [6️⃣](https://readme-power4.airopi.dev/play?column=5)&nbsp;&nbsp;&nbsp;
 [7️⃣](https://readme-power4.airopi.dev/play?column=6)
 
-[<img src="https://readme-power4.airopi.dev/image" width="240"/>](https://google.com)[<img src="https://readme-power4.airopi.dev/image" width="240"/>](https://google.com)[<img src="https://readme-power4.airopi.dev/image" width="240"/>](https://google.com)
+<img src="https://readme-power4.airopi.dev/image" width="240"/>
 
 Restart : [🔄](https://readme-power4.airopi.dev/reset)  
 If the game is not over, you will need to wait 5 minutes after the last play to restart.
