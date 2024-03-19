@@ -26,10 +26,24 @@
 
 <img src="https://readme-power4.airopi.dev/image" width="240"/>
 
-Restart : [🔄](https://readme-power4.airopi.dev/reset)  
+Restart : [🔄](https://readme-power4.airopi.dev/connect4/reset)  
 If the game is not over, you will need to wait 5 minutes after the last play to restart.
 
+#### Connect4^2!
 
+
+&nbsp;[1️⃣](https://readme.airopi.dev/connect4/play?column=0)&nbsp;&nbsp;&nbsp;
+[2️⃣](https://readme.airopi.dev/connect4/play?column=1)&nbsp;&nbsp;&nbsp;
+[3️⃣](https://readme.airopi.dev/connect4/play?column=2)&nbsp;&nbsp;&nbsp;
+[4️⃣](https://readme.airopi.dev/connect4/play?column=3)&nbsp;&nbsp;&nbsp;
+[5️⃣](https://readme.airopi.dev/connect4/play?column=4)&nbsp;&nbsp;&nbsp;
+[6️⃣](https://readme.airopi.dev/connect4/play?column=5)&nbsp;&nbsp;&nbsp;
+[7️⃣](https://readme.airopi.dev/connect4/play?column=6)
+
+<img src="https://readme.airopi.dev/connect4/image" width="240"/>
+
+Restart : [🔄](https://readme-power4.airopi.dev/connect4/reset)  
+If the game is not over, you will need to wait 5 minutes after the last play to restart.
 
 ---
 
