@@ -92,7 +92,7 @@ If the game is not over, you will need to wait 5 minutes after the last play to 
 
 ### • GitHub Stats
 <p aligh="left">
-  <img align="left" alt="AiroPi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AiroPi&count_private=true&show_icons=true&locale=en&theme=onedark">
+  <img align="left" alt="AiroPi's GitHub stats" src="github-readme-stats-git-master-airopis-projects.vercel.app/api?username=AiroPi&count_private=true&show_icons=true&locale=en&theme=onedark&role=ORGANIZATION_MEMBER,OWNER">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AiroPi&theme=onedark&show_icons=true&locale=en&layout=compact&hide=tcl"/>
 </p>
 
