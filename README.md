@@ -105,7 +105,7 @@ If the game is not over, you will need to wait 5 minutes after the last play to 
 ```txt
 Total Time: 1 hr 9 mins
 
-Python       58 mins         █████████████████▃▁▁▁▁▁▁▁   69.12 %
+Python       58 mins         █████████████████▃▁▁▁▁▁▁▁   69.13 %
 Other        14 mins         ████▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   17.56 %
 TOML         4 mins          █▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   05.59 %
 Docker       3 mins          █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.95 %
