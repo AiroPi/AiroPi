@@ -105,11 +105,11 @@ If the game is not over, you will need to wait 5 minutes after the last play to 
 ```txt
 Total Time: 1 hr 9 mins
 
-Python       58 mins         █████████████████▃▁▁▁▁▁▁▁   69.13 %
-Other        14 mins         ████▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   17.56 %
-TOML         4 mins          █▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   05.59 %
-Docker       3 mins          █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.95 %
-YAML         1 min           ▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.30 %
+Python       58 mins         █████████████████▄▁▁▁▁▁▁▁   69.51 %
+Other        14 mins         ████▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   17.65 %
+TOML         4 mins          █▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   05.62 %
+Docker       3 mins          █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.97 %
+YAML         1 min           ▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.31 %
 ```
 
 <!--END_SECTION:waka-->
