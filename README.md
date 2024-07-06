@@ -14,6 +14,7 @@
 [<img width="25px" src="https://readme.airopi.dev/ms/img/8/0"/>](https://readme.airopi.dev/ms/play/8/0)[<img width="25px" src="https://readme.airopi.dev/ms/img/8/1"/>](https://readme.airopi.dev/ms/play/8/1)[<img width="25px" src="https://readme.airopi.dev/ms/img/8/2"/>](https://readme.airopi.dev/ms/play/8/2)[<img width="25px" src="https://readme.airopi.dev/ms/img/8/3"/>](https://readme.airopi.dev/ms/play/8/3)[<img width="25px" src="https://readme.airopi.dev/ms/img/8/4"/>](https://readme.airopi.dev/ms/play/8/4)[<img width="25px" src="https://readme.airopi.dev/ms/img/8/5"/>](https://readme.airopi.dev/ms/play/8/5)[<img width="25px" src="https://readme.airopi.dev/ms/img/8/6"/>](https://readme.airopi.dev/ms/play/8/6)[<img width="25px" src="https://readme.airopi.dev/ms/img/8/7"/>](https://readme.airopi.dev/ms/play/8/7)[<img width="25px" src="https://readme.airopi.dev/ms/img/8/8"/>](https://readme.airopi.dev/ms/play/8/8)[<img width="25px" src="https://readme.airopi.dev/ms/img/8/9"/>](https://readme.airopi.dev/ms/play/8/9)[<img width="25px" src="https://readme.airopi.dev/ms/img/8/10"/>](https://readme.airopi.dev/ms/play/8/10)[<img width="25px" src="https://readme.airopi.dev/ms/img/8/11"/>](https://readme.airopi.dev/ms/play/8/11)  
 [<img width="25px" src="https://readme.airopi.dev/ms/img/9/0"/>](https://readme.airopi.dev/ms/play/9/0)[<img width="25px" src="https://readme.airopi.dev/ms/img/9/1"/>](https://readme.airopi.dev/ms/play/9/1)[<img width="25px" src="https://readme.airopi.dev/ms/img/9/2"/>](https://readme.airopi.dev/ms/play/9/2)[<img width="25px" src="https://readme.airopi.dev/ms/img/9/3"/>](https://readme.airopi.dev/ms/play/9/3)[<img width="25px" src="https://readme.airopi.dev/ms/img/9/4"/>](https://readme.airopi.dev/ms/play/9/4)[<img width="25px" src="https://readme.airopi.dev/ms/img/9/5"/>](https://readme.airopi.dev/ms/play/9/5)[<img width="25px" src="https://readme.airopi.dev/ms/img/9/6"/>](https://readme.airopi.dev/ms/play/9/6)[<img width="25px" src="https://readme.airopi.dev/ms/img/9/7"/>](https://readme.airopi.dev/ms/play/9/7)[<img width="25px" src="https://readme.airopi.dev/ms/img/9/8"/>](https://readme.airopi.dev/ms/play/9/8)[<img width="25px" src="https://readme.airopi.dev/ms/img/9/9"/>](https://readme.airopi.dev/ms/play/9/9)[<img width="25px" src="https://readme.airopi.dev/ms/img/9/10"/>](https://readme.airopi.dev/ms/play/9/10)[<img width="25px" src="https://readme.airopi.dev/ms/img/9/11"/>](https://readme.airopi.dev/ms/play/9/11)
 
+<!---
 #### Connect4!
 
 &nbsp;[1️⃣](https://readme-power4.airopi.dev/play?column=0)&nbsp;&nbsp;&nbsp;
@@ -28,9 +29,8 @@
 
 Restart : [🔄](https://readme-power4.airopi.dev/connect4/reset)  
 If the game is not over, you will need to wait 5 minutes after the last play to restart.
-
-<!---
-#### Connect4^2!
+--->
+#### Connect4!
 
 
 &nbsp;[1️⃣](https://readme.airopi.dev/connect4/play?column=0)&nbsp;&nbsp;&nbsp;
@@ -43,9 +43,8 @@ If the game is not over, you will need to wait 5 minutes after the last play to 
 
 <img src="https://readme.airopi.dev/connect4/image" width="240"/>
 
-Restart : [🔄](https://readme-power4.airopi.dev/connect4/reset)  
+Restart : [🔄](https://readme.airopi.dev/connect4/reset)  
 If the game is not over, you will need to wait 5 minutes after the last play to restart.
---->
 
 ---
 
