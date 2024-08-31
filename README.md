@@ -102,12 +102,12 @@ If the game is not over, you will need to wait 5 minutes after the last play to 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 5 mins
+Total Time: 3 hrs 18 mins
 
-PHP          3 hrs 14 mins   █████████████▃▁▁▁▁▁▁▁▁▁▁▁   53.10 %
-Vue.js       2 hrs 37 mins   ██████████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁   43.08 %
-TypeScript   12 mins         ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.38 %
-JSON         1 min           ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.44 %
+Vue.js       1 hr 49 mins    █████████████▆▁▁▁▁▁▁▁▁▁▁▁   54.99 %
+PHP          1 hr 21 mins    ██████████▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁   40.90 %
+TypeScript   6 mins          ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.36 %
+JSON         1 min           ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.74 %
 ```
 
 <!--END_SECTION:waka-->
