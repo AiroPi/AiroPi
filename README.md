@@ -104,10 +104,10 @@ If the game is not over, you will need to wait 5 minutes after the last play to 
 ```txt
 Total Time: 10 hrs 39 mins
 
-Python                     7 hrs 58 mins   ██████████████████▃▁▁▁▁▁▁   73.34 %
+Python                     7 hrs 58 mins   ██████████████████▃▁▁▁▁▁▁   73.33 %
 TypeScript                 41 mins         █▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.31 %
-JavaScript                 35 mins         █▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   05.44 %
-EJS                        30 mins         █▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.66 %
+JavaScript                 35 mins         █▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   05.45 %
+EJS                        30 mins         █▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.67 %
 C                          15 mins         ▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.41 %
 ```
 
