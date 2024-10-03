@@ -102,13 +102,13 @@ If the game is not over, you will need to wait 5 minutes after the last play to 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 17 mins
+Total Time: 7 hrs 47 mins
 
-Python       2 hrs 49 mins   █████████████▂▁▁▁▁▁▁▁▁▁▁▁   52.73 %
-TOML         42 mins         ███▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   13.28 %
-YAML         40 mins         ███▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   12.57 %
-Rust         36 mins         ██▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   11.43 %
-Caddyfile    9 mins          ▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.82 %
+Python       3 hrs 8 mins    ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   39.79 %
+Rust         1 hr 29 mins    ████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   18.94 %
+YAML         1 hr 4 mins     ███▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   13.54 %
+TOML         56 mins         ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   11.86 %
+Bash         28 mins         █▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.06 %
 ```
 
 <!--END_SECTION:waka-->
