@@ -95,13 +95,13 @@ To start a new game, click on the "Restart" button. If the game is not over yet,
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 hrs 13 mins
+Total Time: 19 hrs 34 mins
 
-Python       8 hrs 44 mins   ████████████▅▁▁▁▁▁▁▁▁▁▁▁▁   50.28 %
-Docker       2 hrs 20 mins   ███▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   13.50 %
-YAML         1 hr 39 mins    ██▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   09.58 %
-Go           1 hr 37 mins    ██▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   09.34 %
-Markdown     1 hr 21 mins    ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.82 %
+Python       8 hrs 46 mins   ███████████▂▁▁▁▁▁▁▁▁▁▁▁▁▁   44.39 %
+YAML         2 hrs 41 mins   ███▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   13.58 %
+Docker       2 hrs 20 mins   ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   11.88 %
+TOML         1 hr 44 mins    ██▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.79 %
+Go           1 hr 37 mins    ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.22 %
 ```
 
 <!--END_SECTION:waka-->
