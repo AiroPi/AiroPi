@@ -97,9 +97,9 @@ To start a new game, click on the "Restart" button. If the game is not over yet,
 ```txt
 Total Time: 2 hrs 44 mins
 
-Other                      6 hrs 33 mins   █████████████████▅▁▁▁▁▁▁▁   70.44 %
-YAML                       1 hr 44 mins    ████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   18.68 %
-C                          49 mins         ██▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.81 %
+Other                      6 hrs 32 mins   █████████████████▅▁▁▁▁▁▁▁   70.39 %
+YAML                       1 hr 44 mins    ████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   18.72 %
+C                          49 mins         ██▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.82 %
 Bash                       6 mins          ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.19 %
 Nginx configuration file   2 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.49 %
 ```
