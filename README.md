@@ -97,11 +97,11 @@ To start a new game, click on the "Restart" button. If the game is not over yet,
 ```txt
 Total Time: 3 hrs 53 mins
 
-Other        10 hrs 8 mins   ██████████████████▁▁▁▁▁▁▁   72.26 %
-Python       1 hr 57 mins    ███▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   13.91 %
-YAML         1 hr 23 mins    ██▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   09.97 %
-Docker       12 mins         ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.52 %
-HTML         11 mins         ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.32 %
+Other        10 hrs 2 mins   ██████████████████▁▁▁▁▁▁▁   72.08 %
+Python       1 hr 57 mins    ███▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   14.00 %
+YAML         1 hr 23 mins    ██▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   10.04 %
+Docker       12 mins         ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.53 %
+HTML         11 mins         ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.33 %
 ```
 
 <!--END_SECTION:waka-->
