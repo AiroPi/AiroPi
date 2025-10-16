@@ -95,13 +95,13 @@ To start a new game, click on the "Restart" button. If the game is not over yet,
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 30 mins
+Total Time: 3 hrs 3 mins
 
-Other                2 hrs 44 mins   ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁   43.97 %
-YAML                 1 hr 46 mins    ███████▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   28.45 %
-CFEngine3            50 mins         ███▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   13.38 %
-Markdown             23 mins         █▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.34 %
-Python               12 mins         ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.38 %
+Other                2 hrs 40 mins   ███████████▆▁▁▁▁▁▁▁▁▁▁▁▁▁   46.62 %
+YAML                 1 hr 46 mins    ███████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   31.02 %
+CFEngine3            50 mins         ███▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   14.58 %
+Python               12 mins         ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.68 %
+Regular Expression   4 mins          ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.21 %
 ```
 
 <!--END_SECTION:waka-->
