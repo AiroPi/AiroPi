@@ -95,11 +95,9 @@ To start a new game, click on the "Restart" button. If the game is not over yet,
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 17 mins
+Total Time: 0 secs
 
-JSON     1 hr 5 mins     █████████████████▅▁▁▁▁▁▁▁   70.20 %
-Other    15 mins         ████▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   16.86 %
-Python   12 mins         ███▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   12.94 %
+Other   15 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
