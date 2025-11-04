@@ -95,12 +95,11 @@ To start a new game, click on the "Restart" button. If the game is not over yet,
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 min
+Total Time: 0 secs
 
-Other        2 mins          ██████████████████▅▁▁▁▁▁▁   74.49 %
-YAML         0 secs          █████▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   23.17 %
-Markdown     0 secs          ▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.11 %
-Git Config   0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.22 %
+Other        2 mins          █████████████████▇▁▁▁▁▁▁▁   71.30 %
+YAML         0 secs          ███████▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   28.43 %
+Git Config   0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.27 %
 ```
 
 <!--END_SECTION:waka-->
