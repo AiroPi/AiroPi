@@ -95,9 +95,13 @@ To start a new game, click on the "Restart" button. If the game is not over yet,
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 1 hr 39 mins
 
-No activity tracked
+Python       50 mins         ████████████▅▁▁▁▁▁▁▁▁▁▁▁▁   50.06 %
+JavaScript   39 mins         █████████▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   39.28 %
+Markdown     7 mins          ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.91 %
+JSON         2 mins          ▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.45 %
+Other        0 secs          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.31 %
 ```
 
 <!--END_SECTION:waka-->
