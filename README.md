@@ -1,5 +1,6 @@
-## Hi there, I'm Pierre - aka Airo.Pi 👋
-### • Wanna play ?
+## Hi there, I'm pi 👋
+
+### • Starting fun : wanna play ?
 
 #### Minesweeper!
 
@@ -25,7 +26,7 @@ Btw, the <img height="20px" src="https://readme.airopi.dev/static/ms/undo.png"/>
 </blockquote>
 </details>
 
-#### Connect4!
+#### Connect4 !
 
 <img src="https://readme.airopi.dev/static/connect4/margin.png" width="2.5px"/>[<img src="https://readme.airopi.dev/static/connect4/button.png" width="40px"/>](https://readme.airopi.dev/connect4/play?column=0)[<img src="https://readme.airopi.dev/static/connect4/button.png" width="40px"/>](https://readme.airopi.dev/connect4/play?column=1)[<img src="https://readme.airopi.dev/static/connect4/button.png" width="40px"/>](https://readme.airopi.dev/connect4/play?column=2)[<img src="https://readme.airopi.dev/static/connect4/button.png" width="40px"/>](https://readme.airopi.dev/connect4/play?column=3)[<img src="https://readme.airopi.dev/static/connect4/button.png" width="40px"/>](https://readme.airopi.dev/connect4/play?column=4)[<img src="https://readme.airopi.dev/static/connect4/button.png" width="40px"/>](https://readme.airopi.dev/connect4/play?column=5)[<img src="https://readme.airopi.dev/static/connect4/button.png" width="40px"/>](https://readme.airopi.dev/connect4/play?column=6)<img src="https://readme.airopi.dev/static/connect4/margin.png" width="2.5px"/>  
 <img src="https://readme.airopi.dev/connect4/img/board" width="285px"/>  
@@ -42,65 +43,47 @@ To start a new game, click on the "Restart" button. If the game is not over yet,
 ---
 
 ### • Languages and Tools:
-#### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/arduino-00979D?&style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
 
-#### Frameworks & libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
+I use **[Python](https://github.com/python/cpython)** a lot, but I also used **[Golang](https://github.com/golang/go)**, **[Typescript](https://github.com/microsoft/typescript/)**, **[Javascript](https://en.wikipedia.org/wiki/JavaScript)**, **[PHP](https://github.com/php/php-src)**, **[C](https://en.wikipedia.org/wiki/C_(programming_language))**, **[HTML](https://en.wikipedia.org/wiki/HTML)**, **[CSS](https://en.wikipedia.org/wiki/CSS)**, **[Nix](https://github.com/NixOS/nix)**, **[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))**, **[Rust](https://github.com/rust-lang/rust)**, and more... I'm not an expert, but with good documentations, examples, Stackoverflow and AI... we can do great things.
 
-#### Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgreSQL-4169E1?&style=for-the-badge&logo=postgreSQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rive-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGoAAABwCAYAAAD2bOVqAAAACXBIWXMAABYlAAAWJQFJUiTwAAADX0lEQVR4nO2d/W3bMBDFNUJGyAgZoSN4BG9Qb+BsEG/gbuBsoBE0gkbQCK8gxAAu2gIteTzq8d4PyL8B5SfxPnmcpicAvAK4AlgRkxXAAmAG8ADwDuAE4G06CgC+A9h6/1IHZsvindML3VMk8X8srqLl7U7UcW8uGIAflYsUHoLlT1jYcm0hlGjnQX6zFEqeHsPXlWMG0Zbk1r/UCpWCOuGzFZY7GknpwJkIOrHeZKt4xEqBr74sHxYLm3XKQfAc7G9xflE/qoQS05cpOOcXtqV4F/3ehqTAtVGqbeuWiR8Z7HbcWrC593MNC+wdL7tUk/gdADcjoZY//HthiWFm52y6MNFMLNkqIrFkqzwwqETcXBYaHezeYE19b+v9DGEAcKn8qrT9eVEZY2n7I3Es5P15kYuxxbbKbaFiqvUAj9PrPjqocyqUpXCuaZWiOpWznSpFnh+Jm353XWh0UC7UZ++1hwLlnp9iKU8kFAkSigTZKBJQjrw+koD33W2h0cHeaVvKqff6wwDgs0IoFQ9JRkLUnfQQ/0YeU1SKmjFJ2p2VkPUgnXtCHbJPTsdzalibLzI6sDnhoUCX5BiODrURiKTSRivywXSrEUVyIhr1Q9R6d888zBcZGewCXRsM+pJtMnS7b40msSlTXvjFvGbbc8lTwVqOyVvZ39579qS8/raGYvxVJMotr4GBPjqc/eXBBjyep4BlATY4RUoEGT+3sYtUm3FmYKW1SUZNIAzMlN5dIKG2oc45Vfa/HZX7kA0qAw0enofOghsM0TgCMaqzA9y6sw3hNAS51WCeopCz17e833smZlcjsdQ33ppc3rDYAsfz+AZNDn/0fo7hQf3MvS/GddMHCxfW3s8RAtjc/ah+CJKsfpzYaoAB9HPv5xge2N1WN04WPcAW+NL7WYYHe39fLTGStj1RbBUwtoK2QJr0kmIrorYB7o4kBqAriDiAYiseoNgqXI/Ho/dzDA8q7994QnWr1ii2IgIq3XMAle55gGIrHqC6FQcq3RMBle7DxVZqiyZpi1bdygPFViQotoqXXtIMdA/UFk2C6lbxYis1xJCU7tW/TrIFbi4LFVN1W7R+Q47YSm46SWylAwYk6SWdWiS4y0OuOYFYEmk6AHmoZNoKn52MJGAKkn/p9/sJpjeiRZc6DLEAAAAASUVORK5CYII=&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+> [!IMPORTANT]
+> I'm not fan of AI. I can ask AI some tips, some "how to do this ?", but I don't like having AI doing things for me.  
+> I don't want to be part of all the "AI generated PR" that are overwhelming Open Source. For this reason, I try to write my codes myself, following my thoughts.
+
+I use Docker (not fully oss), **[Git](https://github.com/git/git)**, **[Nix/NixOS](https://github.com/NixOS/nixpkgs/)** (I use nixos btw), **[Vim](https://github.com/vim/vim)**, **[Tmux](https://github.com/tmux/tmux)** (trying **[Zellij](https://github.com/zellij-org/zellij)**), **[Zsh](https://github.com/zsh-users/zsh)** (and [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)), **[ohmyposh](https://github.com/jandedobbeleer/oh-my-posh)**...
+
+I work on **MacOS** (not oss) with [nix-darwin](https://github.com/nix-darwin/nix-darwin), **[NixOS](https://github.com/NixOS/nixpkgs/)** on [Asahi Linux](https://github.com/AsahiLinux/linux), [NixOS](https://github.com/NixOS/nixpkgs/) on Linux, **[Debian](https://www.debian.org/)** (for servers), and sometimes I launch Windows for gaming.
+
+My favorite apps&services are [Ghostty](https://github.com/ghostty-org/ghostty), Spotify (not oss), [Zen Browser](https://github.com/zen-browser/desktop), Tailscale (not oss), Figma (not oss), Notion (not oss), Discord (not oss, `@airo.pi`)...
+
+I also do selfhosting, with lot of open sources services like **[Nextcloud](https://github.com/nextcloud/all-in-one)**, **[Jellyfin](https://github.com/jellyfin/jellyfin)**, **[StirlingPDF](https://github.com/Stirling-Tools/Stirling-PDF)**, **[Vaultwarden](https://github.com/dani-garcia/vaultwarden)**, **[Gramps Web](https://github.com/gramps-project/gramps-web)**, **[Authentik](https://github.com/goauthentik/authentik)**, **[Immich](https://github.com/immich-app/immich)**, **[Kutt](https://github.com/thedevs-network/kutt)**, **[Stalwart](https://github.com/stalwartlabs/stalwart)**, **[Technitium DNS](https://github.com/TechnitiumSoftware/DnsServer)**, **[Caddy](https://github.com/caddyserver/caddy)**, **[Uptime Kuma](https://github.com/louislam/uptime-kuma)**...
+
+I use/have used **Postgres**, **Bind9**, **Nginx**, **CEPH**, **Proxmox**, **MariaDB**, **Gallera**, **Docker Swarm**, **Ansible**, **Github Action**, **Gitlab CICD**, **Jenkins**, **Postfix**, **Freeradius**, **Gitlab**...
 
 ---
 
-### • Contact me
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/users/341550709193441280"/>
+### • Open Source contributor
+
+I didn't contribte to a lot of open sources projects for now, but I want to contribute more and more.
+
+Some projects where I did at least one Pull Request:
+- [Memories](https://github.com/pulsejet/memories/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AAiroPi+)
+- [nixpkgs](https://github.com/NixOS/nixpkgs/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AAiroPi+)
+- [cup](https://github.com/sergi0g/cup/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AAiroPi+) (draft)
+- [hjem-impure](https://github.com/Rexcrazy804/hjem-impure/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AAiroPi+) (draft)
+- [uptime-kuma](https://github.com/louislam/uptime-kuma/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AAiroPi+) (merged from another PR)
+- [nextcloud all-in-one](https://github.com/nextcloud/all-in-one/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AAiroPi+)
+- and more...
+
+Sometimes it's a whole feature, sometimes just documentations, but I do think every contribution is important, since it can helps other users of such projects !
 
 ---
 
 ### • GitHub Stats
 <p aligh="left">
   <img align="left" alt="AiroPi's GitHub stats" src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=AiroPi&count_private=true&show_icons=true&locale=en&theme=onedark&role=ORGANIZATION_MEMBER,OWNER">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AiroPi&theme=onedark&show_icons=true&locale=en&layout=compact&hide=tcl"/>
+  <img align="center" src="https://github-readme-stats-five-beta-96.vercel.app/api/top-langs?username=AiroPi&theme=onedark&show_icons=true&locale=en&layout=compact&hide=tcl"/>
 </p>
-
----
-
-### • My activity
-
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 ---
 
