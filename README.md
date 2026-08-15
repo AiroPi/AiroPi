@@ -64,13 +64,13 @@ I use/have used **Postgres**, **Bind9**, **Nginx**, **CEPH**, **Proxmox**, **Mar
 
 ### • Open Source contributor
 
-I didn't contribte to a lot of open sources projects for now, but I want to contribute more and more.
+I didn't contribute to a lot of open sources projects for now, but I want to contribute more and more.
 
 Some projects where I did at least one Pull Request:
 - [Memories](https://github.com/pulsejet/memories/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AAiroPi+)
 - [nixpkgs](https://github.com/NixOS/nixpkgs/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AAiroPi+)
 - [cup](https://github.com/sergi0g/cup/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AAiroPi+) (draft)
-- [hjem-impure](https://github.com/Rexcrazy804/hjem-impure/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AAiroPi+) (draft)
+- [hjem-impure](https://github.com/Rexcrazy804/hjem-impure/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AAiroPi+)
 - [uptime-kuma](https://github.com/louislam/uptime-kuma/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AAiroPi+) (merged from another PR)
 - [nextcloud all-in-one](https://github.com/nextcloud/all-in-one/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AAiroPi+)
 - and more...
